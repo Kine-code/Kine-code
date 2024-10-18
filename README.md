@@ -8,7 +8,7 @@
 <body>
 
 <div class="container">
-    <<div style="text-align: center;">
+    <div style="text-align: center;">
         <h1>👋 Hi, I’m Dương Công Kiên</h1>
     </div
     <p>👀 I’m interested in <strong>Business Analysis (BA)</strong> and <strong>Development (Dev)</strong>.</p>

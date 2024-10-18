@@ -4,15 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <style>
-        .container {
-            text-align: center; /* Căn giữa tất cả nội dung bên trong .container */
-        }
-    </style>
 </head>
 <body>
 
-<div class="container">
+<div class="container" style="center">
     <h1>👋 Hi, I’m Dương Công Kiên</h1>
     <p>👀 I’m interested in <strong>Business Analysis (BA)</strong> and <strong>Development (Dev)</strong>.</p>
     <p>🌱 I’m currently learning <strong>Business Analyst</strong> and <strong>Developer</strong>.</p>

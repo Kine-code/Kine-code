@@ -8,7 +8,7 @@
 <body>
 
 <div class="container">
-    <h1>👋 Hi, I’m Dương Công Kiên</h1>
+    <h1 style="center">👋 Hi, I’m Dương Công Kiên</h1>
     <p>👀 I’m interested in <strong>Business Analysis (BA)</strong> and <strong>Development (Dev)</strong>.</p>
     <p>🌱 I’m currently learning <strong>Business Analyst</strong> and <strong>Developer</strong>.</p>
     <div class="contact">

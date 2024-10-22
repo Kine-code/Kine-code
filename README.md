@@ -20,5 +20,3 @@
 
 </body>
 </html>
-
-![snake gif](https://github.com/Kine-code/Kine-code/blob/output/github-contribution-grid-snake.svg)

@@ -8,19 +8,15 @@
 <body>
 
 <div class="container">
-    <div class="marquee" style="text-align: center; display: inline-block;
-            white-space: nowrap;
-            overflow: hidden;
-            position: relative;">
+    <div  align="center">
         <h1>👋 Hi, I’m Dương Công Kiên</h1>
-    </div>
+    </div
     <p>👀 I’m interested in <strong>Business Analysis (BA)</strong> and <strong>Development (Dev)</strong>.</p>
     <p>🌱 I’m currently learning <strong>Business Analyst</strong> and <strong>Developer</strong>.</p>
     <div class="contact">
         <p>📫 How to reach me: <a href="mailto:ckiendev@gmail.com">ckiendev@gmail.com</a></p>
     </div>
 </div>
-
 </body>
 </html>
 

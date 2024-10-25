@@ -26,10 +26,16 @@
 </div>
 <br/>
 <hr/>
+    <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+ ![snake gif](https://github.com/Kine-code/Kine-code/blob/output/github-contribution-grid-snake-dark.svg)
+  
+  <br/><br/><br/>
+</div>
 </div>
 </body>
 </html>
 
-<h2>🐍 My Contributions 🐍</h2>
-  <br>
-![snake gif](https://github.com/Kine-code/Kine-code/blob/output/github-contribution-grid-snake-dark.svg)
+
+

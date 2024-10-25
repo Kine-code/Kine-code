@@ -9,10 +9,12 @@
 
 <div class="container">
     <h1 align="center">Hi 👋, I'm Dương Công Kiên</h1>
+    <div align="center">
     <p>👀 I’m interested in <strong>Business Analysis (BA)</strong> and <strong>Development (Dev)</strong>.</p>
     <p>🌱 I’m currently learning <strong>Business Analyst</strong> and <strong>Developer</strong>.</p>
     <div class="contact">
         <p>📫 How to reach me: <a href="mailto:ckiendev@gmail.com">ckiendev@gmail.com</a></p>
+    </div>
     </div>
     <hr/>
    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

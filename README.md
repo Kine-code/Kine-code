@@ -24,11 +24,9 @@
     <img src="https://skillicons.dev/icons?i=java,c,firebase,mongodb,python,flask,vscode,git" />
     <br>
 </div>
-<br/>
     <hr/>
     <div align="center">
       <h2>🐍 My Contributions 🐍</h2>
-      <br>
       <img alt="snake eating my contributions" src="https://github.com/Kine-code/Kine-code/blob/output/github-contribution-grid-snake-dark.svg" />
       <br/><br/><br/>
     </div>

@@ -7,4 +7,4 @@
 - 📫 *ckiendev@gmail.com*
 
 
-![snake gif](https://github.com/Kine-code/Kine-code/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kine-code/Kine-code/blob/output/github-contribution-grid-snake-dark.svg)

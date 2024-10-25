@@ -20,10 +20,10 @@
    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,laravel,git,r" />
-    <img src="https://skillicons.dev/icons?i=php,python,javascript,java,c#,mysql,firebase,mongodb,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=php,python,javascript,java,c,mysql,oracle,firebase,mongodb,flask" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,figma,laravel,vscode,github,git,r" />
+    <br>
 </div>
-
 <br/>
 <hr/>
 </div>

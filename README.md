@@ -9,7 +9,9 @@
 
 <div class="container">
     <div  align="center">
-        <h1>👋 Hi, I’m Dương Công Kiên</h1>
+        <h1 align="center">
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I’m Dương Công Kiên!;" />
+        </h1>
     </div
     <p>👀 I’m interested in <strong>Business Analysis (BA)</strong> and <strong>Development (Dev)</strong>.</p>
     <p>🌱 I’m currently learning <strong>Business Analyst</strong> and <strong>Developer</strong>.</p>

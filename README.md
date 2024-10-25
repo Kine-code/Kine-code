@@ -17,6 +17,7 @@
         <p>📫 How to reach me: <a href="mailto:ckiendev@gmail.com">ckiendev@gmail.com</a></p>
     </div>
 </div>
-    ![snake gif](https://github.com/trunghieu2803/trunghieu2803/blob/output/github-contribution-grid-snake.gif)
+   
 </body>
 </html>
+ ![snake gif](https://github.com/trunghieu2803/trunghieu2803/blob/output/github-contribution-grid-snake.gif)

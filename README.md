@@ -19,7 +19,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,figma,javascript,bootstrap,html,css,github" />
-    <img src="https://skillicons.dev/icons?i=android,java,c,firebase,mongodb,python,flask,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=java,c,firebase,mongodb,python,flask,vscode,git" />
     <br>
 </div>
     <hr/>

@@ -1,12 +1,3 @@
-
-Để tạo hiệu ứng chữ chạy cho thẻ <h1>, bạn có thể sử dụng CSS để tạo hiệu ứng di chuyển. Dưới đây là cách thực hiện:
-
-Thêm một lớp CSS cho thẻ <h1>.
-Sử dụng thuộc tính animation để tạo hiệu ứng chạy.
-Dưới đây là mã HTML và CSS cập nhật:
-
-html
-Sao chép mã
 <!DOCTYPE html>
 <html lang="en">
 <head>

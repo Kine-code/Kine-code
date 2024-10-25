@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dương Công Kiên</h1>
 
-- 👀 *I’m interested in Business Analysis (BA) and Development (Dev) *
+- 👀 *I’m interested in Business Analysis (BA) and Development (Dev)*
 
 - 🌱 *I’m currently learning Business Analyst and Web Developer*
 

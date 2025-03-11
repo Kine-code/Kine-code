@@ -16,7 +16,7 @@
         <p>📫 How to reach me: <a href="mailto:ckiendev@gmail.com">ckiendev@gmail.com</a></p>
     </div>
     </div>
-    <hr/>
+<!--     <hr/> -->
 <!--    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> -->
 <!-- <br/> -->
 <!-- <div align="center">

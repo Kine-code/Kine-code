@@ -17,21 +17,21 @@
     </div>
     </div>
     
-<!--     <hr/> -->
-<!--    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> -->
-<!-- <br/> -->
-<!-- <div align="center">
-<!--      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kine-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,figma,javascript,bootstrap,html,css,github" />
+ <hr/> 
+  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+ <br/> 
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kine-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /> -->
+ <img src="https://skillicons.dev/icons?i=php,laravel,mysql,figma,javascript,bootstrap,html,css,github" />
     <img src="https://skillicons.dev/icons?i=java,c,firebase,mongodb,python,flask,vscode,git" />
-    <br> -->
-<!-- </div> --> 
-  <!-- <hr/>
+    <br> 
+ </div>  
+  <hr/>
     <div align="center">
       <h2>🐍 My Contributions 🐍</h2>
       <img alt="snake eating my contributions" src="https://github.com/Kine-code/Kine-code/blob/output/github-contribution-grid-snake-dark.svg" />
       <br/><br/><br/>
-    </div> -->
+    </div> 
 </div>
 </body>
 </html>

@@ -21,7 +21,7 @@
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
  <br/> 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kine-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kine-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> -->
  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,figma,javascript,bootstrap,html,css,github" />
     <img src="https://skillicons.dev/icons?i=java,c,firebase,mongodb,python,flask,vscode,git" />
     <br> 
